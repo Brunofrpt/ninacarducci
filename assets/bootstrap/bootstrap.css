@@ -6921,18 +6921,22 @@ textarea.form-control-lg {
 
 .w-25 {
   width: 25% !important;
+  height: auto;
 }
 
 .w-50 {
   width: 50% !important;
+  height: auto;
 }
 
 .w-75 {
   width: 75% !important;
+  height: auto;
 }
 
 .w-100 {
   width: 100% !important;
+  height: auto;
 }
 
 .w-auto {
@@ -6941,6 +6945,7 @@ textarea.form-control-lg {
 
 .mw-100 {
   max-width: 100% !important;
+  height: auto;
 }
 
 .vw-100 {
